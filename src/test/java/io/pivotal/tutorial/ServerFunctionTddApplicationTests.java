@@ -50,8 +50,6 @@ public class ServerFunctionTddApplicationTests {
 		keys.add(c2.getId());
 		keys.add(c3.getId());
 
-		System.out.println(keys.size());
-
 		return keys;
 	}
 
